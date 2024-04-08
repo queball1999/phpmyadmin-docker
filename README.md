@@ -35,6 +35,7 @@ Begin by cloning this repository to your local machine using:
 git clone <REPOSITORY_URL>
 cd <REPOSITORY_NAME>
 ```
+After cloning, you can directly proceed to "Starting the Containers" section as the docker-compose.yaml file is already set up for you in the repository.
 
 ### Create a Directory and Configuration File
 If you prefer to start from scratch rather than cloning, follow these steps:
