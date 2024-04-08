@@ -32,8 +32,8 @@ Before you begin, ensure you have Docker and Docker Compose installed on your sy
 Begin by cloning this repository to your local machine using:
 
 ```bash
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_NAME>
+git clone 'https://github.com/queball1999/phpmyadmin-docker.git'
+cd phpmyadmin-docker
 ```
 After cloning, you can directly proceed to "Starting the Containers" section as the docker-compose.yaml file is already set up for you in the repository.
 
